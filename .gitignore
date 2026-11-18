@@ -1,0 +1,5 @@
+# Local credentials and environment settings
+*.key
+.env
+.env.*
+!.env.example
